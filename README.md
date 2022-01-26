@@ -1,4 +1,4 @@
-# MintSwapBCH-Assets
+# MintSwapBCH Assets
 BenSwap (SmartBCH) Assets
 
 This repository is used by MintSwap DEX, ChartPro, IBO, and Analytics on SmartBCH.<br/>
